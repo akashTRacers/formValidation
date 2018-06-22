@@ -1,2 +1,6 @@
 SOP("hello every one!");
 SOP("Node js is Synchronous");
+SOP("Multi commit merge to one commit");
+SOP("thats all about squshing");
+console.log(2);
+console.log(3);
